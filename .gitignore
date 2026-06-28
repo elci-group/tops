@@ -1,0 +1,7 @@
+# ViCo artifact store defaults
+.vico/
+*.log
+node_modules/
+target/
+__pycache__/
+.env
