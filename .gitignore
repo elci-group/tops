@@ -6,3 +6,8 @@ target/
 __pycache__/
 .env
 .azusa/
+.kaptaind/
+.lwoodz/
+.uni/
+.traci/
+.orb
